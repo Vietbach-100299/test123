@@ -1,0 +1,1 @@
+<h1>welcome to laravel 10</h1>
